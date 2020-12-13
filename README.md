@@ -14,3 +14,8 @@ Keep in mind: No Pain, No Gain :white_heart:
 -----
 you can find out more about Growth Mindset at: [www.atlassian.com!](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
 ![](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1982/growth-mindset-01.png)
+
+
+Written by: **Boshra Jaber**
+
+GitHub profile:  [BoshraJaber!](https://github.com/BoshraJaber)
