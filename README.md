@@ -8,8 +8,9 @@ Although intelligence and talent are contributing factors to success, they are n
 
 1.Embrace Chalenges
 2. Persist when Obstacles
-3. Learn from Criticism 
+3.Learn from Criticism 
 ---
 Keep in mind: No Pain, No Gain :white_heart:
 -----
 you can find out more about Growth Mindset at: [www.atlassian.com!](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
+![](https://zurb-dot-com-prod.s3.amazonaws.com/asset/1982/growth-mindset-01.png)
