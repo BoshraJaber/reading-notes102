@@ -6,11 +6,9 @@ Although intelligence and talent are contributing factors to success, they are n
 
 ## How to Keep Yourself in a Growth Minset?
 
-Do This |  When Faced With:
-----------------|------------
-Embrace| CHalenges
-Persist| Obstacles
-Learn from | Criticism 
+1.Embrace Chalenges
+2. Persist when Obstacles
+3. Learn from Criticism 
 ---
 Keep in mind: No Pain, No Gain :white_heart:
 -----
