@@ -24,3 +24,7 @@ GitHub profile:  [BoshraJaber!](https://github.com/BoshraJaber)
 * you can make your text **bold**
 * or *italic*
 * and much more!
+
+Written by: **Boshra Jaber**
+
+GitHub profile:  [BoshraJaber!](https://github.com/BoshraJaber)
