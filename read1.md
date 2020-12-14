@@ -1,6 +1,6 @@
 
 # Mastering Markdown on GitHub
-* *Markdown* is simply a langauge that can make your programming life much easier!
+* *Markdown* is simply a language that can make your programming life much easier!
 * you can used it to add a link, an image, or just an imoji :open_mouth: .
 * you can also create a table and the list goes on
 ![image](https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png) 
