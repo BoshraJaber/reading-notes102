@@ -30,7 +30,7 @@ Mathematical operators and their order of execution:
 
 ![c](https://sqlundercover.files.wordpress.com/2017/09/2017-09-25-21_18_34.png)
 
-#Functions:
+# Functions:
 ## What is functions:
 * Functions let you group a series of statements together to perform a specific task. 
 * If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
