@@ -32,8 +32,8 @@ JavaScript is written in plain text, just like HTML and CSS, so you do not need 
 * You should write comments to explain what your code does.
 * They help make your code easier to read and understand.
 * This can help you and others who read your code.
-3. Variables:
-A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
-4. Variables Declaration:
+3. Variables: A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
+* Variables Declaration: For that we use the variable keyword **var** followed by a **space** then **the name of the variable** then **;**
+
 
  
