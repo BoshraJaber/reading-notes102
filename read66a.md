@@ -9,7 +9,7 @@ These three layers form the basis of a popular approach to building web pages ca
 
 
 | HTML | HTML+CSS | HTML+CSS+JS |
-| ---- | |---- |
+| ----- | |----- | ----- |
 | Building main structures | Adding more colors and rules to give a good look | Making your page more interactive |
 3. Creating a basic Javascript:
 JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
