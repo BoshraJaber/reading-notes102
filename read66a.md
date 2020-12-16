@@ -40,10 +40,10 @@ Note: Keep in mind that JS is case sensitive.
 * Booleans
 * Numbers
 * Strings
-Note: we assign all of dtat typer to variables.
+Note: we assign all of the data typer to variables.
 5. Naming a variable: Here are six rules you must always follow when giving a variable a name:
-* The name must begin with a letter, dollar sign ($),or an underscore. It must not start with a number.
-* The name can contain letters,numbers, dollar sign ($), or an underscore. Note that you must not use a dash or a period in a variable name.
+* The name must begin with a letter, dollar sign ($), or an underscore. It must not start with a number.
+* The name can contain letters, numbers, dollar sign ($), or an underscore. Note that you must not use a dash or a period in a variable name.
 * You cannot use keywords or reserved words.
 * All variables are case sensitive.
 * Use a name that describes the kind of information that the variable stores.
