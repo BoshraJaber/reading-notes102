@@ -33,7 +33,7 @@ Mathematical operators and their order of execution:
 # Functions:
 ## What is functions:
 * Functions let you group a series of statements together to perform a specific task. 
-* If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+* If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 ## Declaring a function:
 **function** Function-Name() {Code Block;}
 ## Calling a function:
