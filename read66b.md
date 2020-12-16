@@ -1,17 +1,17 @@
 # 1. What is a computer?
-Computers are everywhere and are built to help us with thinking work, like solving an equation, tracking the stars in the sky and so on.
+Computers are everywhere and are built to help us with thinking work, like solving an equation, tracking the stars in the sky, and so on.
 The sky is the limit when it comes to computers applications
-# 2.How does a computer work?
-The way that very computer works is:
+# 2.How does computer work?
+The way that every computer works is:
 * Inputs: data that need to be processed.
-* Process: algorithms that are designed to deliever the desired output from the input.
-* Storage: Memories that store information and data needed for the process to do it work, whether temporarily or permanently.
+* Process: algorithms that are designed to deliver the desired output from the input.
+* Storage: Memories that store information and data needed for the process to do its work, whether temporarily or permanently.
 * Output: The result that we need from our computer.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing2.gif)
 
 # 3. Computer's hardware:
-* Computer's hardware consists of counless circits connected with electric wires.
+* Computer's hardware consists of countless circuits connected with electric wires.
 * These wires carry all the information in a computer, in form of 0s and 1s.
 * These 0s and 1s are called **the binary number system**.
 
