@@ -7,10 +7,10 @@ JaveScript language completes the work of HTML and CSS and the result is a very 
 2. Progressive Enhancement:
 These three layers form the basis of a popular approach to building web pages called *progressive enhancement*.
 
-
-| HTML | HTML+CSS | HTML+CSS+JS |
-| ----- | | ----- | ----- |
+| HTML                     | HTML+CSS                                         | HTML+CSS+JS                       |
+|--------------------------|--------------------------------------------------|-----------------------------------|
 | Building main structures | Adding more colors and rules to give a good look | Making your page more interactive |
+
 3. Creating a basic Javascript:
 JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
 4. Linking JS with HTML:
