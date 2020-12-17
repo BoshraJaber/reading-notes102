@@ -36,11 +36,10 @@ allows you to write and manage text.
 * Fast, responsive, and Extensible.
 * Has syntax highlighting, code completion, themes, and extensions.
 
+# Astep by step introduction to using a terminal:
+## The Command Line or terminal:
+* is a text based interface to the system that enables you to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+## The Shell, Bash:
 
-
-Different classifications of text editors:
-# why it’s important for software developers to be thoughtful about their selection of what they use to write code.
-
-# a step by step introduction to using a terminal
 
 #  a “cheat sheet” or other resource for basic terminal usage.
