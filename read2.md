@@ -1,6 +1,8 @@
 # What is a text editor?
 A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that
 allows you to write and manage text.
+![dd](https://miro.medium.com/max/800/0*MyAfggJM7yH40Sdx.)
+
 # Choosing a text editor: 
 * Each programmer choose a different text editor. it is a a very **personal choice**, as personal as the sports teams you support.
 * It does not matter what text editor you choose as long as you can get the job done.
@@ -35,11 +37,28 @@ allows you to write and manage text.
 * Is a premium software that can be purchased in full for $70.
 * Fast, responsive, and Extensible.
 * Has syntax highlighting, code completion, themes, and extensions.
-
 # Astep by step introduction to using a terminal:
 ## The Command Line or terminal:
 * is a text based interface to the system that enables you to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+![ff](https://upload.wikimedia.org/wikipedia/commons/7/78/Appleterminal2.png)
+
 ## The Shell, Bash:
+* This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. 
+* There are various shells available but the most common one is called bash which stands for Bourne again shell.
+## Basic Navigation Concepts:
+* Relative path: A file or directory location relative to where we currently are in the file system.
+* Absolute path: A file or directory location in relation to the root of the file system.
+## More About Files:
+* Everything is a file,a text file is a file, a directory is a file, your keyboard is a file, your monitor is a file etc. 
 
+## A Cheat Sheet for Basic terminal usage:
 
-#  a “cheat sheet” or other resource for basic terminal usage.
+| The Command | Explanation                                                                                                                     |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------|
+| PWD         | Stands for Print Working Directory. The command does just that. It tells you what your current or present working directory is. |
+| ls          | Short for list, give us the list of what is inside the directory.                                                               |
+| ls -a       | give us the list of of content including hidden files.                                                                          |
+| cd          | Stands for change directory, used to move around in the system.                                                                 |
+| File [Path] | To know for certain what type a file is.                                                                                        |
+
+If you want to know more about terminals please visit : [GitHub Terminal](https://gist.github.com/poopsplat/7195274)
