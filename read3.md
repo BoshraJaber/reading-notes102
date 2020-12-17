@@ -14,46 +14,46 @@ Version Control is a system that allows you to revisit various versions of a fil
  * Files in Git can reside in three main states: committed, modified and staged.
  ![vv](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
  
- ## Initial Customization;
+ ### Initial Customization;
  * *git config* allows the setting of configuration variables that control aspects of Git’s operation and look.
  * *git help command* to access the help manual.
  
- ## Setting up a Git Repository:
+ ### Setting up a Git Repository:
  
- ### Importing:
+ #### Importing:
  1. $ cd test (cd = change directory): Switch to the target project’s directory.
  2. $ git init
  3. $ git add *.c
  4. $ git add LICENSE.
  5. $ git commit -m “any message here".
  
- ## Cloning:
+ #### Cloning:
  $ git clone https://github.com/test
  
- ## Check File Status:
+ #### Check File Status:
  $ git status
  
- ## Tracking and Staging a New File:
+ #### Tracking and Staging a New File:
  * $ git add *
  * $ git status
  
- ## Commit a file:
+ #### Commit a file:
  $ git commit -m “made change x,y,z”
  
- ## Pushing Changes:
+ #### Pushing Changes:
  $ git push origin master
  
- ## Seeing Your Remotes:
+ #### Seeing Your Remotes:
  $ git remote -v
  
- ## Fetching:
+ ##### Fetching:
  git fetch [remote-name]
  
- ## Pushing: 
+ #### Pushing: 
  git push [remote-name][branch-name
  
- ## Deleting Branches:
+ #### Deleting Branches:
  $ git branch -d test
  
- ## Preview Changes:
+ #### Preview Changes:
  git diff <source_branch> <target_branch>
