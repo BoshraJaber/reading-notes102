@@ -5,7 +5,7 @@ allows you to write and manage text.
 ![dd](https://miro.medium.com/max/800/0*MyAfggJM7yH40Sdx.)
 
 # Choosing a text editor: 
-* Each programmer choose a different text editor. it is a a very **personal choice**, as personal as the sports teams you support.
+* Each programmer chooses a different text editor. it is a very **personal choice**, as personal as the sports teams you support.
 * It does not matter what text editor you choose as long as you can get the job done.
 
 # Features to look for in a text editor
@@ -39,7 +39,7 @@ allows you to write and manage text.
 
 ## Brackets:
 * A free text editor made by Adobe.
-* Only supports HTML, CSS and JavaScript, though more coding capabilities can be added through extensions.
+* Only supports HTML, CSS, and JavaScript, though more coding capabilities can be added through extensions.
 * Includes all of the features one may want when using a text editor including “Live Preview”.
 
 ## Sublime Text:
@@ -69,7 +69,7 @@ allows you to write and manage text.
 |-------------|---------------------------------------------------------------------------------------------------------------------------------|
 | PWD         | Stands for Print Working Directory. The command does just that. It tells you what your current or present working directory is. |
 | ls          | Short for list, give us the list of what is inside the directory.                                                               |
-| ls -a       | give us the list of of content including hidden files.                                                                          |
+| ls -a       | give us the list of content including hidden files.                                                                             |
 | cd          | Stands for change directory, used to move around in the system.                                                                 |
 | File [Path] | To know for certain what type a file is.                                                                                        |
 
