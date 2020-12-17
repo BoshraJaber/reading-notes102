@@ -47,7 +47,7 @@ allows you to write and manage text.
 * Fast, responsive, and Extensible.
 * Has syntax highlighting, code completion, themes, and extensions.
 
-# Astep by step introduction to using a terminal:
+# A step by step introduction to using a terminal:
 
 ## The Command Line or terminal:
 * is a text based interface to the system that enables you to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
